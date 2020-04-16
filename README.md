@@ -2,7 +2,7 @@
 
 RankTank [free keyword rank checker tool](https://www.ranktank.org/free-keyword-position-checker-tool/) automates the task of checking where your domain name is ranking within Google SERPs (Search Engine Result Pages). Perfect for digital marketing, SEM and SEO specialists, online marketers and small business owners.
 
-This Google keyword rank checker allows you to paste in a list of keywords, enter your domain, and pull back all of the Google keyword rankings. The ranking position tool totally free and built completely into a Google Sheet!
+This [Google keyword rank checker](https://www.ranktank.org/free-keyword-position-checker-tool/) allows you to paste in a list of keywords, enter your domain, and pull back all of the Google keyword rankings. The ranking position tool totally free and built completely into a Google Sheet!
 
 - [SEMrush Free API Trial](https://link.ranktank.org/semrush-trial) is supported and allows you to add additional MSV (Monthly Search Volume) data.
 - Desktop and mobile device user agents are now supported.
