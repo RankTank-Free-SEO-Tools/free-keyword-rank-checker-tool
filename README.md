@@ -13,7 +13,7 @@ This free SEO tool will let you check keyword rankings relative to your domain, 
 
 Should you wish to support us further you can upgrade for a paid account: https://www.ranktank.org/upgrade/
 
-You may also wish to try our commercial [RankTank Google Sheet add-on](https://docs.ranktank.net/ranktank_google_sheet_add-on).
+You may also wish to try our commercial [RankTank Google Sheet Add-on](https://docs.ranktank.net/ranktank_google_sheet_add-on).
 
 Enjoy!
 
